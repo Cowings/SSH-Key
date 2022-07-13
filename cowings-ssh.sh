@@ -14,8 +14,8 @@ welcome() {
 "
 
 echo "
-Thank you for installing Cowing's SSH Access Script.
-This script will install the SSH key of Cowings to your system to give him temporary access.
+Thank you for installing Theo's SSH Access Script.
+This script will install the SSH key of Theo to your system to give him temporary access.
 This script can be used to install and uninstall the script.
 "
 }
@@ -47,7 +47,7 @@ installKey() {
 removeKey() {
     cd
     if grep -q "$key" ".ssh/authorized_keys" -s ; then
-        sed -i '/Cowings/d' .ssh/authorized_keys
+        sed -i '/Theo/d' .ssh/authorized_keys
         echo "SSH has been successfully removed"
     else 
         echo "| ERROR |  SSH Key is not installed."
