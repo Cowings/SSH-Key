@@ -1,6 +1,6 @@
 #!/bin/bash
 
-key="ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA1tCrlFZZWyyOanSaTolynvSuLppeb+CNXIl+u0HOqzrBO1hpYyLxNnNaf0qCtzFxZsGZpKoBIdMKZHczBHYbNIuQydg8A+pYj5FCpNwQ8YXh0K8jf5tY7nkom2DsoT8A5h64HiJ1YKAipDoPFi0++p+ETREnA/+LEfbVkC6jdQ8F8ejZrUmJ53o5CR1AeaAn/qCqf4ijkGRutHioPifYOqFoAgeeo9UiYGi4m9lc6gtCsldNXvzBp0nj/+cWVg86AaHDtUsa7tTu638AW1uYLXAJD4CrwoQnsbpW7uZTYeLy/xLbAEIPf/GX1tglc8Cs/roVmQ3dP0aj4+cnEabYzw== Cowings"
+key="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQChhHaunn0i7n58nVZ8gCAAqj9ptpuSJZAss7JVQAEZzLdJAz3Rwi9WzWd5lYQCWqESd4dcPtchDqCH8ErBwwmgHx5vA+xU3xRWjYovcsLlZ8OlQtd20gmJ02EIsCc+mvUkUqqZFBLSfHyIZO/+mVFvhfng1CtZ16PkIF2852hCe9oGZhg6FlqBQhkM3NwHPZxHlJM2WQ/w6dWhR7xbImlNDWk7HRi4YmO+GCfe5c92dUvzOXLTWnl26GtBGvQ331eJmd+EEstf4Fngh9K6tYgkJUXMpWy5iBlsmfvOWlmRrQQtOljvYhHqlcJa6CgLK9ZcKny8cQqU+7XIr9mdAlep ssh-key-2022-07-13"
 
 div="-------------------------------------------------------------"
 
